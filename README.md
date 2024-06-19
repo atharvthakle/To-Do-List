@@ -6,7 +6,7 @@ In this project, you'll learn about :
 - CSS styling : Applying styles to enhance the visual appearance of the website.
 - Basic interactivity : Implementing simple user interactions such as adding, editing, and removing tasks.
 
-• Features
+Features
 
 - Add, Mark, and remove tasks from the to-do list.
 - Simple and intuitive user interface.
